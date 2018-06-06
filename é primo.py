@@ -7,4 +7,4 @@ def primo(n):
 n = primo(int(input('coloque o valor ')))
 
 
-main()
+mudança @ TK
