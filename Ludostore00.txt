@@ -1,0 +1,1552 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml" 
+	  lang="pt-BR"
+>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	
+	<title>Ludostore</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+	<meta name="title" content="Ludostore">
+		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+	<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content">
+		<meta property="og:description" name="description" content="" />
+	<meta property="og:title" content="Ludostore"/>
+	<meta property="og:name" content="Ludostore"/>
+	<meta property="og:caption" content="ludopedia.com.br"/>
+	<meta name="og:site_name" content="Ludopedia">
+	<meta property="fb:app_id" content="1499182690294881"/>
+		<link rel="image_src" href="https://ludopedia.com.br/images/logo_ludopedia.jpg"/><meta property="og:image" content="https://ludopedia.com.br/images/logo_ludopedia.jpg"/>	<meta name="Keywords" content="Marketplace de jogos de tabuleiro, Loja de Jogos de Tabuleiro, Ludostore, Ludopedia, Anúncios, Jogos de Tabuleiro, Últimos Lançamentos, RPG, Venda de Jogos, Comprar, Venda" />
+	
+
+	<!--  ICONS  -->
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	
+	
+	<!--STYLESHEET-->
+	<!--=================================================-->
+
+	<!--Open Sans Font  -->
+ 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;subset=latin" rel="stylesheet">
+
+
+	<!--Bootstrap Stylesheet [ REQUIRED ]-->
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	
+
+	<!--Nifty Stylesheet [ REQUIRED ]-->
+	<link href="https://ludopedia.com.br/js/nifty/2.4/css/nifityludo.min.css" rel="stylesheet">
+
+	<!--Nifty Stylesheet 
+		-->
+	<link href="https://ludopedia.com.br/js/nifty/2.4/css/themes/type-a/theme-ocean.css" rel="stylesheet">
+	
+
+	<!--Font Awesome [ OPTIONAL ]-->
+	
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >		
+		<!--  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.0.10/font-awesome-animation.min.css"> -->
+		
+	<!--Ludopedia-->
+	<link href="https://ludopedia.com.br/css/ludopedia.css?v=2.0.39" rel="stylesheet">	
+	
+	<!-- OTHER CSS-->
+		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" rel="stylesheet"><link href="https://ludopedia.com.br/css/ludostore.css?version=2.0.60" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" rel="stylesheet">	<!--jQuery [ REQUIRED ]-->
+	
+	
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		
+	
+	
+			
+</head><script type="text/javascript"> var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-34620948-1']);
+				_gaq.push(['_setDomainName', 'ludopedia.com.br']);
+				_gaq.push(['_trackPageview']);
+				
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();  </script><body > <div id="fb-root"></div>	<div id="container" 
+					class="  navbar-fixed mainnav-fixed    mainnav-sm  mainnav-out boxed-layout   ">
+					<!-- aside-in  mainnav-fixed reveal mainnav-in navbar-fixed-->
+			
+
+<!--NAVBAR-->
+<!--===================================================-->
+<header id="navbar">
+	<div id="navbar-container" class="boxed">
+
+		<!--Brand logo & name-->
+		<!--================================-->
+		<div class="navbar-header">
+			<a href="https://ludopedia.com.br/" class="navbar-brand ">
+				<img src="https://ludopedia.com.br/images/brand.svg" alt="Logo Ludopedia" class="brand-icon" style="width:40px;height:40px">
+				
+				<div class="brand-title">
+					<span class="brand-text text-bold"  >LUDO<span style="color:#ffc90e;">PEDIA</span></span>
+				</div>
+			</a>
+		</div>
+		<!--================================-->
+		<!--End brand logo & name-->
+
+
+		<!--Navbar Dropdown-->
+		<!--================================-->
+		<div class="navbar-content clearfix">
+			<ul class="nav navbar-top-links pull-left">
+
+				<!--Navigation toogle button-->
+				<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+				<li class="tgl-menu-btn">
+					<a class="mainnav-toggle" href="#">
+						<i class="fa fa-navicon fa-lg"></i>
+					</a>
+				</li>
+				<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+				<!--End Navigation toogle button-->
+
+				<!--User dropdown-->
+				<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+				<li id="dropdown-user" class="dropdown">
+										    
+					
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle text-right">
+												<span class="pull-right">
+							<img class="img-circle img-user media-object" src="https://ludopedia.com.br/uploads/avatar/avatar_24146_sm_1512004180.jpg" alt="Avatar">
+						</span>
+												<div class="username hidden-xs">vsisamp</div>
+					</a>
+
+
+					<div class="dropdown-menu dropdown-menu-md dropdown-menu-left with-arrow panel-default">
+
+						<!-- Dropdown heading  -->
+						<!-- User dropdown menu -->
+												<ul class="head-list">
+							
+							<li>
+								<a href="https://ludopedia.com.br/usuario/vsisamp">
+									<i class="fa fa-user fa-fw fa-lg"></i> Perfil
+								</a>
+							</li>
+							<li>
+								<a href="https://ludopedia.com.br/edit_user_badge">
+									<i class="fa fa-shield fa-fw fa-lg"></i> Minhas Badges
+								</a>
+							</li>
+							<li>
+								<a href="https://ludopedia.com.br/avaliacoes?v=p">
+																		<i class="fa fa-shield fa-thermometer-three-quarters fa-fw fa-lg"></i> Avaliações Pendentes									
+								</a>
+							</li>
+							
+							<li>
+								<a href="https://ludopedia.com.br/meumercado">
+									<i class="fa fa-shopping-cart fa-fw fa-lg"></i> Meu Mercado
+								</a>
+							</li>
+														<li>
+								<a href="https://ludopedia.com.br/aprova_partida">
+																		
+									<i class="fa fa-trophy fa-fw fa-lg"></i> Partidas Pendentes 
+								</a>
+							</li>
+							<li>
+								<a href="https://ludopedia.com.br/atividades">
+																		
+									<i class="fa fa-clock-o fa-fw fa-lg"></i> Atividades
+								</a>
+							</li>
+							<li>
+								<a href="https://ludopedia.com.br/configuracoes">
+																		<i class="fa fa-gear fa-fw fa-lg"></i> Configurações
+								</a>
+							</li>
+						</ul>
+
+						<!-- Dropdown footer -->
+						<div class="pad-all text-right">
+							<a href="https://ludopedia.com.br/logout" class="btn btn-primary">
+								<i class="fa fa-sign-out fa-fw"></i> Logout
+							</a>
+						</div>
+							
+											</div>
+				</li>
+				<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+				<!--End user dropdown-->
+
+				<!--Messages Dropdown-->
+				<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+									<li class="mega-dropdown" id="dropdown-mensagens">
+						<a href="#" id="btn-menu-messages" class="mega-dropdown-toggle" aria-expanded="false" >
+							<i class="fa fa-envelope fa-lg"></i>
+													</a>
+						<!--Message dropdown menu-->
+						<div class="dropdown-menu mega-dropdown-menu " style="padding:0px; max-width: 400px">
+							<div class="pad-all bord-btm ">
+								<p class="text-lg text-bold text-thin mar-no" id="title-menu-messages">Mensagens Privadas</p>
+							</div>
+							<div class="nano scrollable" id="scrollable-menu-messages">
+								<div class="nano-content">
+									<img id="loading-menu-messages" style="margin:auto; display:block" src="https://ludopedia.com.br//images/auxiliares/wait_ajax.gif">
+									<ul class="head-list" id="ul-menu-messages" style="padding-right:5px">
+									</ul>
+								</div>
+							</div>
+							<!--Dropdown footer-->
+							<div class="pad-all bord-top">
+								<a href="https://ludopedia.com.br/mensagens" class="btn-link text-dark box-block">
+									<i class="fa fa-angle-right fa-lg pull-right"></i>Caixa de Entrada
+								</a>
+							</div>
+						</div>
+					</li>
+				
+					<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+					<!--End message dropdown-->
+					<!--Notification dropdown-->
+					<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+					<li class="mega-dropdown" id="dropdown-notificacoes">
+						<a href="#" class="mega-dropdown-toggle" id="btn-menu-notificacoes" aria-expanded="false">
+							<i class="fa fa-globe fa-lg"></i>
+													</a>
+						<!--Notification dropdown menu-->
+						<div class="dropdown-menu mega-dropdown-menu" style="padding:0px; max-width: 400px">
+							<div class="pad-all bord-btm">
+								<p class="text-lg text-bold text-thin mar-no" id="title-menu-notificacoes">Notificações</p>
+							</div>
+							<div class="nano scrollable" id="scrollable-menu-notificacoes">
+								<div class="nano-content">
+									<img id="loading-menu-notificacoes" style="margin:auto; display:block" src="https://ludopedia.com.br//images/auxiliares/wait_ajax.gif">
+									<ul class="head-list" id="ul-menu-notificacoes">
+										<!-- Dropdown list-->
+										<li>
+											<a href="#" class="media">
+												<div class="media-left">
+													<span class="icon-wrap icon-circle bg-primary">
+														<i class="fa fa-comment fa-lg"></i>
+													</span>
+												</div>
+												<div class="media-body">
+													<div class="small">O Jogo <b>Blood Rage</b> lista <b>Lançamentos no Brasil em 2016</b> recebeu novo(s) comentário(s).</div>
+													<small class="text-muted small"><i class="fa fa-eye"></i>  15 minutes ago</small>
+												</div>
+											</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+	
+							<!--Dropdown footer-->
+							<div class="pad-all bord-top">
+								<a href="https://ludopedia.com.br/notificacoes" class="btn-link text-dark box-block">
+									<i class="fa fa-angle-right fa-lg pull-right"></i>Ver todas notificações
+								</a>
+							</div>
+						</div>
+					</li>
+										
+												<li class="mega-dropdown" id="dropdown-shopping-cart">
+						<a href="#" id="btn-menu-cart" class="mega-dropdown-toggle" aria-expanded="false" >
+							<i class="fa fa-shopping-cart fa-lg"></i>
+													</a>
+						<!--Message dropdown menu-->
+						<div class="dropdown-menu mega-dropdown-menu " style="padding:0px; max-width: 400px">
+													<div class=" bord-btm text-center">
+								<a href="https://ludopedia.com.br/loja" class="btn-link text-dark box-block">
+									<img src="https://ludopedia.com.br/images/ludostore_xs.png" style="height:35px; margin:10px">
+								</a>
+							</div>
+							
+							<div class="nano scrollable" id="scrollable-menu-cart">
+								<div class="nano-content">
+									<img id="loading-menu-cart" style="margin:auto; display:block" src="https://ludopedia.com.br//images/auxiliares/wait_ajax.gif">
+									<ul class="head-list" id="ul-menu-cart" style="padding-right:5px">
+									</ul>
+								</div>
+							</div>
+							<!--Dropdown footer-->
+							<div class="pad-all bord-top" id="btn-ver-carrinho-top">
+								<a href="https://ludopedia.com.br/cart" class="btn-link text-dark box-block">
+									<i class="fa fa-angle-right fa-lg pull-right"></i>Ver Carrinho de Compras
+								</a>
+							</div>
+							
+						</div>
+				</li>
+				
+
+				
+			</ul>
+			<!--End notifications dropdown-->
+			
+			<ul class="nav navbar-top-links pull-right hidden-xs">
+
+				
+				<!-- Search Navbar -->
+				<!--Searchbox-->						
+				<li class="dropdown hidden-xs">
+					<form style="padding-right:0px" action="https://ludopedia.com.br/search" >
+						<div class="searchbox">
+							<div class="input-group custom-search-form">
+								<input type="text" id="top-bar-search" name="search"  class="form-control" placeholder="Pesquisar..." style="background-color:white">
+								<span class="input-group-btn">									
+									<button class="text-muted" type="button"><i class="fa fa-search"></i></button>
+									<button class="text-muted dropdown-toggle" data-toggle="dropdown" type="button" style="margin-left:10px;color:white"><i class="fa fa-chevron-down" ></i></button>
+										<div class="dropdown-menu dropdown-menu-md dropdown-menu-right with-arrow panel-default">												
+											<!-- User dropdown menu -->
+											<ul class="head-list">
+												<li>
+													<a href="#" class="lnk-search" data-tipo="jogos" >																
+														<i class="fa fa-trophy fa-fw fa-lg"></i> Jogos
+													</a>
+												</li>
+												<li >
+													<a href="#" class="lnk-search" data-tipo="usuarios"><i class="fa fa-user fa-fw fa-lg"></i> Usuários</a>
+												</li>												
+												<li>
+													<a href="#" class="lnk-search" data-tipo="topicos">																
+														<i class="fa fa-comments fa-fw fa-lg"></i> Fórum
+													</a>
+												</li>
+												<li>
+													<a href="#" class="lnk-search" data-tipo="listas">
+														<i class="fa fa-th-list fa-fw fa-lg"></i> Listas
+													</a>
+												</li>																										
+												<li>
+													<a href="#" class="lnk-search" data-tipo="canais">
+														<i class="fa fa-th fa-fw fa-lg"></i> Canais
+													</a>
+												</li>
+											</ul>
+										</div>
+										
+
+								</span>
+							</div>
+
+						</div>
+
+					</form>
+				</li>						
+				<!-- End Search Navbar -->
+			</ul>
+			
+		</div>
+		<!--================================-->
+		<!--End Navbar Dropdown-->
+
+	</div>
+</header>
+<!--===================================================-->
+<!--END NAVBAR-->		<div class="boxed" > <!--MAIN NAVIGATION-->
+<!--===================================================-->
+<nav id="mainnav-container">
+	<div id="mainnav">
+
+		<!--Menu-->
+		<!--================================-->
+		<div id="mainnav-menu-wrap">
+			
+			<div class="nano">
+				<div class="nano-content">
+										<!--================================-->
+					<!--End shortcut buttons-->
+					<ul id="mainnav-menu" class="list-group">
+			
+						<!--Category name-->
+						<li class="list-header">Menu</li>
+												<!--Menu list item-->
+																		<!--Menu Mensagens-->
+						<li >
+							<a href="#">
+								<i class="fa fa-user"></i>
+								<span class="menu-title">
+									<strong>vsisamp</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/usuario/vsisamp">Perfil</a></li>								
+								<li ><a href="https://ludopedia.com.br/colecao?usuario=vsisamp&tipo=colecao">Coleção</a></li>
+								<li ><a href="https://ludopedia.com.br/colecao?usuario=vsisamp&tipo=lista_desejos">Lista de Desejos</a></li>
+								<li ><a href="https://ludopedia.com.br/colecao?usuario=vsisamp&tipo=favorito">Favoritos</a></li>
+								<li ><a href="https://ludopedia.com.br/colecao?usuario=vsisamp&tipo=jogou">Jogos que Joguei</a></li>
+								<li ><a href="https://ludopedia.com.br/colecao?usuario=vsisamp&tipo=nota">Jogos com Notas</a></li>
+								<li ><a href="https://ludopedia.com.br/colecao?usuario=vsisamp&tipo=comentado">Jogos comentados</a></li>
+								<li ><a href="https://ludopedia.com.br/meuapoio">Meu Apoio a Ludopedia</a></li>
+								<li ><a href="https://ludopedia.com.br/solicitacoes">Solicitações de Edição</a></li>
+								
+							</ul>
+						</li>
+						
+						<!--Menu Mensagens-->
+						<li >
+							<a href="#">
+								<i class="fa fa-envelope"></i>
+								<span class="menu-title">
+									<strong>Mensagens</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								
+								<li><a href="https://ludopedia.com.br/mensagens">Caixa de Entrada</a></li>
+								<li><a href="https://ludopedia.com.br/mensagens?v=sent">Enviados</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/cria_mensagem">Criar Mensagem</a></li>
+								
+							</ul>
+						</li>
+												<!--Menu Jogos-->
+						<li >
+							<a href="#">
+								<i class="fa fa-rocket"></i>
+								<span class="menu-title">
+									<strong>Jogos</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li><a href="https://ludopedia.com.br/premioludopedia">Prêmio Ludopedia</a></li>
+								<li><a href="https://ludopedia.com.br/search_jogo">Pesquisa / Ranking</a></li>
+								<li><a href="https://ludopedia.com.br/search_jogo?advsearch=true">Pesquisa Avançada</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/editoras">Editoras</a></li>
+								<li><a href="https://ludopedia.com.br/lancamentos">Lançamentos Nacionais</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/dominios">Domínios</a></li>
+								<li><a href="https://ludopedia.com.br/categorias">Categorias</a></li>
+								<li><a href="https://ludopedia.com.br/mecanicas">Mecânicas</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/cadastro_jogos">Cadastrar um jogo</a></li>
+							</ul>
+						</li>
+						<!--Menu Canais-->
+						<li >
+							<a href="#">
+								<i class="fa fa-th"></i>
+								<span class="menu-title">
+									<strong>Canais</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li><a href="https://ludopedia.com.br/canais?v=postagens">Últimas Postagens</a></li>
+								<li><a href="https://ludopedia.com.br/canais?v=postagens&fl_inscritos=1">Últimas Postagens - Inscritos</a></li>								
+								<li><a href="https://ludopedia.com.br/canais">Canais</a></li>								
+								<li><a href="https://ludopedia.com.br/canais?v=canais&fl_inscritos=1">Canais - Inscritos</a></li>
+								
+																
+							</ul>
+						</li>
+						<!--Menu Fórum-->
+						<li >
+							<a href="#">
+								<i class="fa fa-comments"></i>
+								<span class="menu-title">
+									<strong>Fórum</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/forum?v=foruns">Fóruns</a></li>
+								<li ><a href="https://ludopedia.com.br/forum?v=topicos">Tópicos Recentes</a></li>
+								<li ><a href="https://ludopedia.com.br/forum?v=seguindo">Tópicos que sigo</a></li>
+								<li ><a href="https://ludopedia.com.br/forum?v=24horas">Últimas 24 Horas</a></li>
+								<li ><a href="https://ludopedia.com.br/forum?v=nao_lidos">Tópicos Não Lidos</a></li>
+								<li ><a href="https://ludopedia.com.br/forum?v=favoritos">Tópicos Favoritos</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/forum_post">Criar um Tópico</a></li>
+							</ul>
+						</li>
+						<!--Menu Listas-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-th-list"></i>
+								<span class="menu-title">
+									<strong>Listas</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li><a href="https://ludopedia.com.br/listas">Listas Recentes</a></li>
+								<li><a href="https://ludopedia.com.br/listas?v=nao_lidas">Listas Não Lidas</a></li>
+								<li><a href="https://ludopedia.com.br/listas?v=my">Minhas Listas</a></li>
+								<li><a href="https://ludopedia.com.br/listas?v=favoritas">Listas Favoritas</a></li>								
+								<li class="list-divider"></li>
+								<li ><a href="https://ludopedia.com.br/cadastro_ludo_list">Criar uma Lista</a></li>
+								
+							</ul>
+						</li>
+						<!--Menu Anúncios-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-shopping-cart"></i>
+								<span class="menu-title">
+									<strong>Mercado</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li  class="active-link" ><a href="https://ludopedia.com.br/loja">Ludostore</a></li>
+								<li class="list-divider"></li>
+																<li ><a href="https://ludopedia.com.br/meumercado">Meu Mercado</a></li>								
+								<li><a href="https://ludopedia.com.br/anuncios">Anúncios</a></li>
+								<li><a href="https://ludopedia.com.br/listas?v=leiloes">Leilões</a></li>								
+								<li class="list-divider"></li>
+								<li ><a href="https://ludopedia.com.br/cadastro_anuncio">Criar um anúncio</a></li>								
+								<li ><a href="https://ludopedia.com.br/cadastro_ludo_list">Criar um Leilão</a></li>
+							</ul>
+						</li>
+						<!--Menu Videos-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-play-circle"></i>
+								<span class="menu-title">
+									<strong>Vídeos</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/videos">Todos os Vídeos</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=1">Análise</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=10">Customização</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=4">Entrevista</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=5">Evento</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=3">Jogatina</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=9">Regras</a></li>
+								<li ><a href="https://ludopedia.com.br/videos?id_categoria=2">Unboxing</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/upload_video">Subir um vídeo</a></li>								
+							</ul>
+						</li>
+						<!-- Multimidia -->
+						<li  >
+							<a href="#">
+								<i class="fa fa-image"></i>
+								<span class="menu-title">
+									<strong>Multimídia</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/anexos">Arquivos</a></li>								
+								<li ><a href="https://ludopedia.com.br/imagens">Imagens</a></li>								
+								<li class="list-divider"></li>								
+								<li><a href="https://ludopedia.com.br/upload_arquivo">Subir Arquivo</a></li>
+								<li><a href="https://ludopedia.com.br/upload_images">Subir Imagens</a></li>
+							</ul>
+						</li>
+						
+						<!--Menu Podcasts-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-headphones"></i>
+								<span class="menu-title">
+									<strong>Podcasts</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/podcasts">Todos Podcasts</a></li>
+								<li><a href="https://ludopedia.com.br/podcast_episodios">Últimos episódios</a></li>
+							</ul>
+						</li>
+						<!--Menu Grupos-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-group"></i>
+								<span class="menu-title">
+									<strong>Grupos</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/grupo_pesquisa">Pesquisar um Grupo</a></li>
+								<li ><a href="https://ludopedia.com.br/grupo_pesquisa?participo=true&tx_pesquisar=1">Meus Grupos</a></li>
+								<li class="list-divider"></li>
+								<li><a href="https://ludopedia.com.br/cadastra_grupo">Criar um Grupo</a></li>								
+							</ul>
+						</li>
+						<!--Menu Partidas-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-trophy"></i>
+								<span class="menu-title">
+									<strong>Partidas</strong>
+								</span>
+								<i class="arrow"></i>
+							</a>
+							<!--Submenu-->
+							<ul class="collapse ">								
+								<li><a href="https://ludopedia.com.br/partidas?id_usuario=24146">Partidas - Resumo</a></li>
+								<li><a href="https://ludopedia.com.br/partidas?id_usuario=24146&v=detalhado">Partidas - Detalhadas</a></li>
+								<li class="list-divider"></li>
+								<li ><a href="https://ludopedia.com.br/cadastra_partida">Cadastrar uma Partida</a></li>
+							</ul>
+						</li>
+						
+												<!--Menu Admin-->
+												<!--Fale Conosco-->
+						<li  >
+							<a href="#">
+								<i class="fa fa-tag"></i>
+								<span class="menu-title"><strong>Sobre</strong></span>
+							</a>
+							<ul class="collapse ">
+								<li ><a href="https://ludopedia.com.br/faleconosco">Fale Conosco</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<!--================================-->
+		<!--End menu-->
+
+	</div>
+</nav>
+<!--===================================================-->
+<!--END MAIN NAVIGATION-->				<!--CONTENT CONTAINER--> 					
+							<div id="content-container"><div id="page-content" class=" mar-top pad-top pad-no-xs" >
+	<div class="menu-store panel panel-default" style="padding-top:10px">
+	
+	<a href="https://ludopedia.com.br/loja"><img  src="https://ludopedia.com.br/images/ludostore_sm.png" class="ludostore-logo"></a>
+	
+	
+	<div class="primary-menu">		
+		<div class="item-menu-store home selected">
+			<a href="https://ludopedia.com.br/loja" class="home">HOME</a>
+		</div>		
+		<div class="item-menu-store jogo ">
+			<a href="https://ludopedia.com.br/loja/jogos" class="jogo">JOGOS</a>
+		</div>
+		<div class="item-menu-store sleeve  ">
+			<a href="https://ludopedia.com.br/loja/sleeves" class="sleeve">SLEEVES</a>
+		</div>
+		<div class="item-menu-store acessorio "">		
+			<a href="https://ludopedia.com.br/loja/acessorios" class="acessorio">ACESSÓRIOS</a>
+		</div>
+	</div>
+		<div class="secondary-menu home">
+		<div class="item-menu-store selected">
+			<a href="https://ludopedia.com.br/loja" class="">DESTAQUES</a>
+		</div>
+		<div class="item-menu-store ">
+			<a href="https://ludopedia.com.br/loja/categorias" class="">CATEGORIAS</a>
+		</div>
+		
+		
+	</div>
+				</div>
+
+	
+	
+
+
+<style>
+	
+
+	
+	
+</style>
+		<div class="panel panel-default">
+		<div class="panel-body">
+
+			<form class=" pad-btm   pad-xs "  style="display: block; width: 100%" >				
+				<div class="input-group ">
+					<input type="text" class="form-control" placeholder="Pesquisar" name="search" value="">
+					<span class="input-group-btn">
+						<button id="btn-pesq-jogo" class="btn btn-search" type="submit"><i class="fa fa-search"></i></button>
+					</span>			
+				</div>
+			</form>
+			
+			
+			<h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/ultimos-lancamentos">ÚLTIMOS LANÇAMENTOS</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-auto-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/336/fanhunter-assault?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/17991_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Fanhunter: Assault</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 94,90</span>
+						<a href="https://ludopedia.com.br/produto/336/fanhunter-assault?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=15437&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/15437_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Ricardo Coração de Leão</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 279,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=15437&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/112/hora-de-aventura-roleplaying-game?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/15752_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Hora de Aventura: Roleplaying Game</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 199,90</span>
+						<a href="https://ludopedia.com.br/produto/112/hora-de-aventura-roleplaying-game?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=12685&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/12685_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dice Forge</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 254,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=12685&ref=home">Ver ofertas (5)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=14981&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/14981_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Azul</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 239,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=14981&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=14946&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/14946_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Star Wars: Legion</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 495,00</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=14946&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=1437&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/1437_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Luna</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 258,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=1437&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=13914&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/13914_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Fotossíntese</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 174,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=13914&ref=home">Ver ofertas (5)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=1089&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/1089_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Tikal</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 299,00</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=1089&ref=home">Ver ofertas (4)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=5779&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/5779_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Colt Express</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 218,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=5779&ref=home">Ver ofertas (4)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=15021&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/15021_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Noria</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 284,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=15021&ref=home">Ver ofertas (5)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/452/pot-de-vin?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/15127_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Pot de Vin</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 58,90</span>
+						<a href="https://ludopedia.com.br/produto/452/pot-de-vin?ref=home">Ver oferta</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/star-wars">STAR WARS</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=14946&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/14946_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Star Wars: Legion</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 495,00</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=14946&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/381/star-wars-x-wing-miniatures-game-o-despertar-da-forca?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/9012_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Star Wars: X-Wing Miniatures Game – O Despertar da Força</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 160,00</span>
+						<a href="https://ludopedia.com.br/produto/381/star-wars-x-wing-miniatures-game-o-despertar-da-forca?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/114/star-wars-fronteira-do-imperio?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/8149_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Star Wars: Fronteira do Império</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 179,90</span>
+						<a href="https://ludopedia.com.br/produto/114/star-wars-fronteira-do-imperio?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/516/star-wars-legion-stormtroopers?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/17724_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Star Wars: Legion – Stormtroopers</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 132,00</span>
+						<a href="https://ludopedia.com.br/produto/516/star-wars-legion-stormtroopers?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/515/star-wars-legion-troopers-rebeldes?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/17725_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Star Wars: Legion – Troopers Rebeldes</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 132,00</span>
+						<a href="https://ludopedia.com.br/produto/515/star-wars-legion-troopers-rebeldes?ref=home">Ver oferta</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/lista-de-desejos">SUA LISTA DE DESEJOS</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=13768&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/13768_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dead of Winter: Colônias em guerra</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 197,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=13768&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=9172&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/9172_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Sword & Sorcery: Espíritos Imortais</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 498,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=9172&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=1089&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/1089_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Tikal</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 299,00</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=1089&ref=home">Ver ofertas (4)</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/iniciar-no-hobby">PARA INICIAR NO HOBBY</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=55&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/55_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Carcassonne</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 143,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=55&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=2&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/2_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Ticket To Ride</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 268,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=2&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=460&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/460_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Coup</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 63,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=460&ref=home">Ver ofertas (4)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=306&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/306_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">King of Tokyo</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 179,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=306&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=11384&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/11384_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Kingdomino</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 118,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=11384&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/396/codinomes?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/8147_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Codinomes</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 149,90</span>
+						<a href="https://ludopedia.com.br/produto/396/codinomes?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=620&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/620_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Saboteur</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 79,80</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=620&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=606&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/606_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dixit</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 168,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=606&ref=home">Ver ofertas (4)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/143/catan-o-jogo?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/397_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Catan - O Jogo</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 189,70</span>
+						<a href="https://ludopedia.com.br/produto/143/catan-o-jogo?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=595&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/595_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Bohnanza: Por um Punhado de Feijões!</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 58,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=595&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/399/dobble-spot-it?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/3857_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dobble (Spot it!)</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 59,90</span>
+						<a href="https://ludopedia.com.br/produto/399/dobble-spot-it?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/420/sushi-go?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/2528_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Sushi Go!</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 49,90</span>
+						<a href="https://ludopedia.com.br/produto/420/sushi-go?ref=home">Ver oferta</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/ganhadores-premio-ludopedia">GANHADORES DO PRÊMIO LUDOPEDIA</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=11384&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/11384_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Kingdomino</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 118,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=11384&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/493/dwar7s-outono?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/10869_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dwar7s: Outono</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 109,90</span>
+						<a href="https://ludopedia.com.br/produto/493/dwar7s-outono?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/252/puerto-rico?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/48_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Puerto Rico</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 218,90</span>
+						<a href="https://ludopedia.com.br/produto/252/puerto-rico?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=6949&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/6949_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Animal Upon Animal</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 99,70</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=6949&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=7067&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/7067_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Quartz</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 134,80</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=7067&ref=home">Ver ofertas (4)</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/2-jogadores">PARA 2 JOGADORES</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/330/yomi-round-1?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/4258_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Yomi: Round 1</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 89,90</span>
+						<a href="https://ludopedia.com.br/produto/330/yomi-round-1?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/142/caverna-cave-vs-cave?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/13576_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Caverna: Cave vs Cave</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 148,90</span>
+						<a href="https://ludopedia.com.br/produto/142/caverna-cave-vs-cave?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=333&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/333_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Fungi (Morels)</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 68,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=333&ref=home">Ver ofertas (3)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/256/dungeon-twister-the-card-game?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/1272_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dungeon Twister: The Card Game</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 63,90</span>
+						<a href="https://ludopedia.com.br/produto/256/dungeon-twister-the-card-game?ref=home">Ver oferta</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/complete-sua-colecao">COMPLETE SUA COLEÇÃO</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=13768&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/13768_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dead of Winter: Colônias em guerra</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 197,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=13768&ref=home">Ver ofertas (6)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=5491&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/5491_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dungeon Fighter: A Onda Gigante</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 82,80</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=5491&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=5490&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/5490_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dungeon Fighter: Fogo Neles!</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 82,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=5490&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=8707&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/8707_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dungeon Fighter: Rock'n Roll</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 82,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=8707&ref=home">Ver ofertas (2)</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/loja/itens?id_jogo=6679&ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/6679_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Dungeon Fighter: Ventos Tempestuosos</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 69,90</span>
+						<a href="https://ludopedia.com.br/loja/itens?id_jogo=6679&ref=home">Ver ofertas (3)</a>
+   					</div>  </div>
+				</div><h3 class="title"><div class="mercado-title-square"></div><a href="https://ludopedia.com.br/loja/ultimas-unidades">ÚLTIMAS UNIDADES</a> </h3>
+				<div style="min-height: 300px">
+					<div class="owl-carousel owl-theme carousel-no-play" > <div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/537/-organizador-insert-para-orleans-bucaneiros?ref=home">
+									<img class="img-produto"  src="https://storage.googleapis.com/ludopedia-produtos/2fdf4_60ga3uq08m_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">  Organizador (Insert) para Orléans - Bucaneiros </h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 75,00</span>
+						<a href="https://ludopedia.com.br/produto/537/-organizador-insert-para-orleans-bucaneiros?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/542/6-separadores-premium-para-organizador-insert-do-eldritch-horror?ref=home">
+									<img class="img-produto"  src="https://storage.googleapis.com/ludopedia-produtos/f42c1_8hwb2rt92j_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">6 Separadores PREMIUM para Organizador (Insert) do Eldritch Horror</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 9,00</span>
+						<a href="https://ludopedia.com.br/produto/542/6-separadores-premium-para-organizador-insert-do-eldritch-horror?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/428/a-troupe-dos-porquinhos?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/7695_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">A Troupe dos Porquinhos</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 208,90</span>
+						<a href="https://ludopedia.com.br/produto/428/a-troupe-dos-porquinhos?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/335/a-volta-ao-mundo-em-80-dias?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/5444_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">A Volta ao Mundo em 80 Dias</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 179,90</span>
+						<a href="https://ludopedia.com.br/produto/335/a-volta-ao-mundo-em-80-dias?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/123/agricola-edicao-revisada?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/10672_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Agricola (Edição Revisada)</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 268,90</span>
+						<a href="https://ludopedia.com.br/produto/123/agricola-edicao-revisada?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/467/arena-sangue-e-gloria?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/9762_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Arena: Sangue e Glória</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 78,90</span>
+						<a href="https://ludopedia.com.br/produto/467/arena-sangue-e-gloria?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/70/arte-moderna?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/908_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Arte Moderna</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 129,90</span>
+						<a href="https://ludopedia.com.br/produto/70/arte-moderna?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/429/as-lendas-de-andor?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/315_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">As Lendas de Andor</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 302,40</span>
+						<a href="https://ludopedia.com.br/produto/429/as-lendas-de-andor?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/51/as-lendas-de-andor-a-ultima-esperanca?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/14303_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">As Lendas de Andor: A Última Esperança</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 294,90</span>
+						<a href="https://ludopedia.com.br/produto/51/as-lendas-de-andor-a-ultima-esperanca?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/356/baby-blues?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/8740_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Baby Blues</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 73,90</span>
+						<a href="https://ludopedia.com.br/produto/356/baby-blues?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/352/bar-bestial?ref=home">
+									<img class="img-produto"  src="https://ludopedia.com.br/images/jogos/capas/7242_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Bar Bestial</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 109,90</span>
+						<a href="https://ludopedia.com.br/produto/352/bar-bestial?ref=home">Ver oferta</a>
+   					</div><div class="item text-center  agrupado">
+						<div class="container-img-produto">
+							<div class="div-img-middle">
+  								<a href="https://ludopedia.com.br/produto/545/barcos-para-puerto-rico-5-unidades-bucaneiros?ref=home">
+									<img class="img-produto"  src="https://storage.googleapis.com/ludopedia-produtos/d1405_n0mour9xo2_t.jpg" alt="" title="" >
+								</a>
+							</div>
+						</div>
+						<div class="separador"></div>
+						<h4 class="nome-produto">Barcos para Puerto Rico (5 unidades) - Bucaneiros</h4><span>A partir de</span><br>
+						<span class="prod-preco">R$ 55,00</span>
+						<a href="https://ludopedia.com.br/produto/545/barcos-para-puerto-rico-5-unidades-bucaneiros?ref=home">Ver oferta</a>
+   					</div>  </div>
+				</div>		
+		</div>
+	</div>
+
+<script>
+$(function(){
+	
+	$(".carousel-no-play").owlCarousel({
+		loop:false,
+		margin:10,		    		    
+		responsive:{
+		        0:{ items:2 },
+		        600:{ items:3 },
+		        800: {items:4}
+		    },		
+		nav:true,
+		dots:false,
+		navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>']
+		
+		});
+	$(".carousel-auto-play").owlCarousel({
+		loop:false,
+		margin:10,		    		    
+		responsive:{
+		        0:{ items:2 },
+		        600:{ items:3 },
+		        800: {items:4}
+		    }
+		    ,
+		    autoplay:true,
+		    autoplayTimeout:3000,	    
+		    loop : true,
+		    slideSpeed :600,
+			dots: false,		    		 
+			nav:true,
+			navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>']
+		
+		
+		});
+});
+</script></div>	
+
+<script>
+
+
+$(function(){
+
+	$(".valor").numeric({ negative : false,   decimal:false});
+
+	if ($(".cep").length )
+	{
+		
+		$(".cep").mask("99999-999");
+
+	}
+	
+});
+</script>
+			</div> 
+							<!--END content-container--><!-- FOOTER -->
+        <!--===================================================-->
+        
+	 	<div class="text-center mar-top block google-ad-btm" >
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Ludopedia LG -->
+		<ins class="adsbygoogle"
+		     style="display:inline-block;width:728px;height:90px"
+		     data-ad-client="ca-pub-7298797509938029"
+		     data-ad-slot="4055720906"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>	
+		
+<footer id="footer clearfix">
+	<!-- Visible when footer positions are static -->
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <p class=" text-center">
+	    		
+    	<ul class="list-inline pad-hor text-center " style="font-size : 1.0em">    		
+			<li><a href="https://www.ludopedia.com.br/canal/ajudaludopedia&id_categoria_canal=96">Políticas do site</a></li>
+			<li></li>			
+			<li><a href="https://www.ludopedia.com.br/termo_aceite">Termos de uso</a></li>
+			<li></li>
+			<li><a href="https://ludopedia.com.br/apoie">Apoie a Ludopedia</a></li>			
+			<li></li>
+			<li><a href="https://www.facebook.com/ludopedia"><i class="fa fa-facebook"></i>  Facebook</a></li>
+			<li></li>
+			<li><a href="https://www.ludopedia.com.br/faleconosco">Fale Conosco</a></li>
+			<li></li>
+			<li><a href="https://www.ludopedia.com.br/ajuda">Ajuda Ludostore</a></li>
+		</ul>
+		
+			
+	</p>
+</footer>
+<!--===================================================-->
+<!-- END FOOTER -->
+ <!-- SCROLL TOP BUTTON -->
+<!--===================================================-->
+<button id="scroll-top" class="btn"><i class="fa fa-chevron-up"></i></button>
+<!--===================================================-->
+<!-- END SCROLL TOP BUTTON -->
+ 		</div>
+						<!-- boxed --> 	</div> <!-- CONTAINER -->	
+	
+	<!--  
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+	-->
+	  
+	<!--Nifty Admin -->
+	<script src="https://ludopedia.com.br/js/nifty/2.4/js/nifty.ludo.min.js"></script>
+	<!--Fast Click -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+	<!--  BOOTBOX - Alerts  -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+		
+	<!--  Block UI  -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.70/jquery.blockUI.min.js"></script>
+		
+	
+		<!--  UTILS  -->
+	<script src="https://ludopedia.com.br/js/utils.js?version=2.0.60"></script>
+	
+	<!-- MAIN JS -->
+	<script src="https://ludopedia.com.br/js/main.js?version=2.0.60"></script>
+	<!-- OTHERS -->
+	
+<script type="text/javascript"  src="https://ludopedia.com.br/js/numeric/jquery.numeric.js?version=2.0.60"></script><script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script><script type="text/javascript"  src="https://ludopedia.com.br/js/views/mercado/ludostore.js?version=2.0.60"></script><script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.pack.min.js"></script><script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-media.min.js"></script>	
+				</body>
+			</html>

@@ -1,0 +1,1 @@
+escrever o "arquivo" ordenado por tamanho.
